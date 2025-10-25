@@ -9,7 +9,6 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@stackframe/stack": "^2.8.47",
     "next": "16.0.0",
     "react": "19.2.0",
     "react-dom": "19.2.0"
